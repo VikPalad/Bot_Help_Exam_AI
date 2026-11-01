@@ -1,0 +1,2 @@
+API_KEY = "sk_CGmxzBYZNglM2bIgk53Fwd2r9nfS5gJk"
+token = "8885150274:AAEvLjsr8FAz_y-oz1WHp5fPYYMDTDSqbpI"
